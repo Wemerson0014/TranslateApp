@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Translate App</string>
+    
+    <!-- activity_main -->
+    <string name="text_hello">Hello World</string>
+    <string name="text_welcome">Welcome to Android</string>
 </resources>
